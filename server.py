@@ -1,5 +1,5 @@
 # copyright and author
-__author__ = 'm@corporation9.com, shranav@corporation9.com'
+__author__ = 'm [ at ] corporation9.com, shranav [ at ] corporation9.com'
 __copyright__ = 'Copyright 2022, The Lifeband Project (UKRI Funded Research)'
 
 # import HTTPServer, BaseHTTPRequestHandler
