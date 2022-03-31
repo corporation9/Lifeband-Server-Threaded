@@ -1,3 +1,7 @@
+# copyright and author
+__author__ = 'm@corporation9.com, shranav@corporation9.com'
+__copyright__ = 'Copyright 2022, The Lifeband Project (UKRI Funded Research)'
+
 # import HTTPServer, BaseHTTPRequestHandler
 from http.server import HTTPServer, BaseHTTPRequestHandler
 # import ThreadingMixIn
